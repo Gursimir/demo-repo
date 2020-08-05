@@ -1,4 +1,7 @@
-Course Name   : Git and GitHub for Bignners-Crash Course
+# Git and GitHub for Beginners
+
+<pre>
+Course Name   : Git and GitHub for Beginners-Crash Course
 
 Conducted by  : freecodecamp course at YouTube
 Instructor    : Gwen Faraday
@@ -28,3 +31,4 @@ Course Link   : https://youtu.be/RGOj5yH7evk
 ⌨️ (56:30) Undoing in git
 ⌨️ (1:01:50) Forking in git
 ⌨️ (1:07:55) Ending
+</pre>
