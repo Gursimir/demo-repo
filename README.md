@@ -8,7 +8,7 @@ Instructor    : Gwen Faraday
 Course Link   : https://youtu.be/RGOj5yH7evk
 Instructor channel : Faraday Academy
 
-⭐️ Contents ⭐️
+    ⭐️ Contents ⭐️
 ⌨️ (0:00) Introduction
 ⌨️ (1:10) What is git?
 ⌨️ (1:30) What is version control?
