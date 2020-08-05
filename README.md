@@ -6,6 +6,7 @@ Course Name   : Git and GitHub for Beginners-Crash Course
 Conducted by  : freecodecamp course at YouTube
 Instructor    : Gwen Faraday
 Course Link   : https://youtu.be/RGOj5yH7evk
+Instructor channel : Faraday Academy
 
 ⭐️ Contents ⭐️
 ⌨️ (0:00) Introduction
