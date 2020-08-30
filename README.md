@@ -7,6 +7,7 @@ Conducted by  : freecodecamp course at YouTube
 Instructor    : Gwen Faraday
 Course Link   : https://youtu.be/RGOj5yH7evk
 Instructor channel : Faraday Academy
+link to instructor's website : http://gwenfaraday.com/
 
     ⭐️ Contents ⭐️
 ⌨️ (0:00) Introduction
