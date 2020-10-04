@@ -26,8 +26,39 @@
       <u>List of Commands</u> : <a href="https://git-scm.com/docs/git#_git_commands">https://git-scm.com/docs/git#_git_commands</a>
       <u>GitHub Cheat Sheet</u> :<a href="file:///C:/Users/simka/OneDrive/Desktop/Git/github-git-cheat-sheet.pdf">file:///C:/Users/simka/OneDrive/Desktop/Git/github-git-cheat-sheet.pdf</a>
       <u>Virtual Cheat Sheet</u> : <a href="https://ndpsoftware.com/git-cheatsheet.html">https://ndpsoftware.com/git-cheatsheet.html</a>
+
+      <h3><u>Push External Project to Git</u></h3><ul>
+        <li>Open project in editor</li>
+        <li>In terminal type git init</li>
+        <li>git status</li>
+        <li>git add. or git add filename</li>
+        <li>git commit -m "--commit mssage--"</li>
+        <li>Now create a Repository in GitHub</li>
+        <li>Copy the html code of the Repository</li>
+        <li>In terminal write git remote add origin copiedHTMLCode</li>
+        <li>Check remote git  by typing git remote -v</li>
+        <li>Finish by typing git push -u origin master</li>
+      </ul>
   
+      <h3><u>Git Branch</u></h3>
       
+      <h5 style="text-align:right">For complete reference on git-scm <a href="https://git-scm.com/docs">click here</a></h5>
+      To add new featues , fix bug(s)and make change(s) the code without affecting the original code 
+      concept of branching is used. till the time we won't merge the branch to the master branch the 
+      changes will not be seen in the master branch/original code.<ul>
+      <li>to check at which branch you are : git branch</li>
+      <li>To create a branch : git checkout -b nameOfTheBranch</li>
+      <li>To switch between branches : git checkout nameOfTheBranch</li>
+      <li>To compare the branch code with master code : git diff</li>
+      </ul>
+      Once the brance is commited we will push the branch code.After all this we have to pull the branch
+      to the master this we will do in Git scince it as automatically get to know that we have created 
+      a branch,from there only we will merge the branch to the mastr branch.
+      It may happen that many developer are woking on branch and trying to merge to the same master
+      branch which may create a conflict. Now to resolve the conflict first commit properly then while 
+      merging tell the git whether to keep both the changes or one particular or none after that merge 
+      the branch this way both the branches will be merge.
+
       <h5 style="text-align:right">For complete reference <a href="https://git-scm.com/docs">click here</a></h5>
       
     
